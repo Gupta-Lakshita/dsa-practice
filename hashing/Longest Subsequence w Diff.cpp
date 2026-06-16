@@ -26,12 +26,3 @@ int maxLenSub(vector<int>& arr)
 
     return ans;
 }
-
-int main()
-{
-    vector<int> arr = {2, 5, 6, 3, 7, 6, 5, 8};
-
-    cout << maxLenSub(arr);
-
-    return 0;
-}
