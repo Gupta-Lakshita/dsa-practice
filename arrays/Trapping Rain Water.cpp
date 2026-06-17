@@ -1,4 +1,6 @@
 //Trapping Rain Water
+//Extension of two pointers.
+
 //given array with height
 //approach: minimum (left max boundary, right max boundary) controls water
 //sc=o(n) prefix array approach

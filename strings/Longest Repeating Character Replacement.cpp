@@ -1,4 +1,6 @@
 //Longest Repeating Character Replacement
+//Sliding window with frequency count.
+
 //approach: sliding window using 2 pointers
 //we don't decrease maxf when shrinking the window
 //(as reduction never helps in increasing answer)

@@ -1,4 +1,6 @@
 //Longest Consecutive Sequence
+//HashSet O(n) solution
+
 //approach:
 
 //better:

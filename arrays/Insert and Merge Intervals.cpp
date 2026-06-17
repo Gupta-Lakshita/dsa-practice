@@ -1,4 +1,6 @@
 //Insert and Merge Intervals or Insert Interval
+//Variant of merge intervals.
+
 //sorted non-overlapping intervals array
 class Solution {
 public:

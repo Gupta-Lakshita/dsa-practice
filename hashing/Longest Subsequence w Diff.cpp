@@ -1,4 +1,6 @@
 //Longest Subsequence w Diff 0/1
+//HashMap + DP.
+
 //approach: HashMap Dynamic Programming problem 
 //where values (not indices) are used as DP states
 

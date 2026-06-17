@@ -1,4 +1,6 @@
 //Longest Substring Without Repeating Characters
+//Sliding window + HashSet. The canonical sliding window problem
+
 //approach: sliding window using 2 pointers
 //empty window > keep expanding > condition violate > move left ptr
 

@@ -1,4 +1,6 @@
 //Two Sum - Pair with given Sum
+//HashMap lookup. Foundation of all two-pointer and hashing problems.
+
 //given int n, vector book w int target
 // approach: hashing (hashmap)
 

@@ -1,4 +1,6 @@
 //Product of Array Except Self
+//Prefix + suffix product without division.
+
 //approach:
 //o(n) space: prefix vector, suffic vector, ans vector
 

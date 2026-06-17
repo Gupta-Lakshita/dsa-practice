@@ -1,4 +1,6 @@
 //Stock Buy and Sell - Max one Transaction Allowed
+//Single-pass min tracking
+
 //given array of prices of various days
 //maximise profit, 1 buy + 1 sell, buy before sell
 //approach:

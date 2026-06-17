@@ -1,5 +1,9 @@
 //Count Subarrays with XOR as k
+//XOR + prefix sum + HashMap. Bit manipulation meets hashing.
+//(not on leetcode)
+
 //approach: x^k=xr; x=xr^k
+
 #include <bits/stdc++.h>
 
 int subarraysWithSumK(vector<int> a, int k) {

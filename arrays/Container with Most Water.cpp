@@ -1,4 +1,6 @@
 //Container with Most Water
+//Two pointers converging. Core two-pointer pattern.
+
 //given: array of heights of boundaries
 //approach: 2 pointers
 class Solution {

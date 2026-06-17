@@ -1,4 +1,6 @@
 //Valid Plaindrome
+//String cleanup + reverse check
+
 //approach: 2 pointers
 
 class Solution {

@@ -1,4 +1,6 @@
 //Merge Overlapping Intervals
+//Sort + merge.
+
 //approach: either directly adding to ans vector or accumulating in previous interval
 class Solution {
 public:
